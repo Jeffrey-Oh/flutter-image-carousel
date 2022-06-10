@@ -5,4 +5,4 @@
 
  - [x] PageView 위젯 사용해보기
  - [x] Timer 사용해보기
- - [ ] PageController 사용해보기
+ - [x] PageController 사용해보기
